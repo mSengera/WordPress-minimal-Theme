@@ -1,0 +1,41 @@
+/*
+Theme Name: Standard Theme
+Theme URI: https://marvin-sengera.de/
+Author: Marvin Sengera
+Author URI: https://marvin-sengera.de/
+Version: 1.4
+Text Domain: twentyseventeen
+*/
+
+/*
+=== Changelog
+
+v1.4
+- Add theme.js standard functions
+
+v1.3
+- Add .fa-prepare() to variables.less
+- Add .smooth-transision() to variables.less
+- Add app/functions directory
+- Add app/functions/is_open.php
+- Add on.document.ready to theme.js
+
+v1.2
+- Add the loop to index.php
+- Add styling for images in posts and pages (style.css)
+
+v1.1
+- Fix WpLess integration in functions.php
+- Add missing theme.js in js folder
+
+v1.0
+- Initial Commit
+
+*/
+
+img.alignright {float:right; margin:0 0 1em 1em}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+a img.alignright {float:right; margin:0 0 1em 1em}
+a img.alignleft {float:left; margin:0 1em 1em 0}
+a img.aligncenter {display: block; margin-left: auto; margin-right: auto}
